@@ -19,10 +19,10 @@ Brief description of what program does here.
 /*NAMING SECTION: We name things to keep track of them easily.
 What will you name your other lights?
 */
-//1,3,9
-int led1 = 1;
-int led2 = 3;
-int led3 = 9;
+//using pins 6, 9, and 10:
+int led1 = 6;
+int led2 = 9;
+int led3 = 10;
 
 int blinkCounter = 1;
 int heartCounter = 1;
