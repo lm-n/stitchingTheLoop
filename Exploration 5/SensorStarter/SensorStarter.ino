@@ -1,6 +1,6 @@
 /*  This code was written for the Stitch the Loop e-textiles curriculum by the
 Exploring Computer Science e-textiles team. ECS 2018 GPL V3 for non commercial use.  
-ECS 2018 CC- BY NC SA.  */
+ECS 2018 CC- BY NC SA. Latest update January 2021 */
 
 /*
 ◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇
